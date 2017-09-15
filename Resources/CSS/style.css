@@ -3,6 +3,24 @@ body {
 	font-family: Helvetica; 
 }
 
-.Intro {
-	background-image: url(./Resources/Images/the-flatiron-building.png);
+.intro {
+	background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
+.begin {
+	font-size: 70px;
+}
+
+.process {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.insert {
+	font-weight: bold;
+	font-size: 23px;
+}
+
+.design {
+	background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
